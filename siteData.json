@@ -681,6 +681,26 @@
         "setting-up-checkstyle": "Setting up Checkstyle"
       },
       "headingKeywords": {}
+    },
+    {
+      "src": "tutorials/vscodeJavaProject.md",
+      "title": "VS Code: Setting up a Java project",
+      "headings": {
+        "setting-up-a-java-project": "Setting up a Java project",
+        "install-the-extension-pack-for-java": "Install the Extension Pack for Java",
+        "setting-up-java-development-kit-jdk": "Setting up Java Development Kit (JDK)",
+        "install-jdk": "Install JDK",
+        "configure-your-jdk": "Configure your JDK",
+        "creating-a-new-java-project": "Creating a new Java project",
+        "method-1-use-vs-code-s-project-wizard": "Method 1: Use VS Code's project wizard",
+        "method-2-create-project-manually": "Method 2: Create project manually",
+        "working-with-existing-java-projects": "Working with existing Java projects",
+        "managing-project-settings": "Managing project settings",
+        "running-your-project": "Running your project",
+        "best-practices": "Best practices",
+        "version-control": "Version control"
+      },
+      "headingKeywords": {}
     }
   ]
 }
