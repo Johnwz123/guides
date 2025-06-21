@@ -683,7 +683,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "tutorials/vscodeJavaProject.md",
+      "src": "tutorials/vscodeSettingUpJavaProject.md",
       "title": "VS Code: Setting up a Java project",
       "headings": {
         "setting-up-a-java-project": "Setting up a Java project",
