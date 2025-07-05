@@ -39,6 +39,7 @@ Tutorials, how-to guides, getting-started guides, ...
   * [Importing a Gradle project](tutorials/vscImportingGradleProject.md)
   * [Setting up Checkstyle](tutorials/vscSettingUpCheckstyle.md)
   * [Using the Debugger](tutorials/vscDebugger.md)
+  * [Debugging Java code](tutorials/vscDebugging.md)
   * AI Tool Integrations: [GitHub Copilot](tutorials/vscCopilot.md) | [Windsurf](tutorials/vscWindsurf.md)
 * [**Sourcetree**](tutorials/sourcetree.html)
 * **Testing**
